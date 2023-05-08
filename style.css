@@ -1,10 +1,10 @@
 .skillbox{
     list-style: none;
     font-family: 'Times New Roman', Times, serif;
+    color:rgb(10, 10, 115);
 }
 
 .skillbox li{
  float: left;
  margin-right: 10px;
-
 }
