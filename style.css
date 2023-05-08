@@ -1,0 +1,10 @@
+.skillbox{
+    list-style: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.skillbox li{
+ float: left;
+ margin-right: 10px;
+
+}
